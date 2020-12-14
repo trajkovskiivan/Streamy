@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "myStreamTitle",
+      "description": "This is a gooddescription",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "Stream After Refactor",
+      "description": "This stream is about refactoring with PATCH",
+      "id": 4
+    },
+    {
+      "title": "Some stream from Ian",
+      "description": "This is a goood stream from Ian Watson. I hope this finds You well",
+      "id": 6
+    },
+    {
+      "title": "Preraboteno",
+      "description": "Isto taka",
+      "id": 7
+    },
+    {
+      "title": "Drug",
+      "description": "Drug",
+      "id": 8
+    }
+  ]
+}
